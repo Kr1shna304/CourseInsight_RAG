@@ -1,0 +1,224 @@
+Professor name: Andy Wang
+Rating: 3.9/5
+level of difficulty: 4
+
+Course: COP3330
+Quality: 4.0
+Difficulty: 4.0
+Attendance: Not specified
+Would Take Again: Yes
+Grade: Not specified
+Textbook: No
+Review: Take time to really understand the material. He will elaborate on content if you have a question. Don't be afraid to ask.
+Tags: Gives good feedback, LOTS OF HOMEWORK, Clear grading criteria
+
+Course: COP5611  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not specified  
+Would Take Again: Yes  
+Grade: A  
+Textbook: Not specified  
+Review: I've taken both COP4610 and COP5611 with Dr. Wang. For the former class, the group projects were challenging, but I learned a lot from them. For the latter, there's more doing critiques and research, as well as a semester-long group project. Dr. Wang himself is a great professor who is knowledgeable in his work but also personable and friendly.  
+Tags: Group projects, Amazing lectures, Respected  
+
+Course: COP5611  
+Quality: 3.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: B  
+Textbook: No  
+Review: He knows much about the subject. Amazing professor but tough tests. He doesn't care much about the grades but about you actually learning so try to learn and you'll get a good grade.  
+Tags: None
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A-  
+Textbook: N/A  
+Review: I definitely recommend taking COP4610 with Dr. Wang. Good lectures that are easy to follow along and he does whatever he can to help his students succeed. Tests are also very fair.  
+Tags: Amazing lectures, Clear grading criteria, Caring  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: N/A  
+Review: Dr. Andy Wang is a great professor who genuinely cares about your performance in the class. The class itself is incredibly difficult and requires lots of time and effort, but Dr. Wang makes the class manageable. His lectures are clear and super approachable (very informative as well). Group project heavy. I couldn't recommend Dr. Wang enough for OS.  
+Tags: Group projects, Caring, Lecture heavy  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A+  
+Textbook: N/A  
+Review: Andy Wang is truly one of the best professors that I have ever had. His lectures are very personable, and he does a great job of turning very complex topics into much more digestible material. Operating Systems is an inherently difficult course, and I believe that Professor Wang made it much easier than it could have been.  
+Tags: Get ready to read, Group projects, Amazing lectures  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not specified  
+Would Take Again: Yes  
+Grade: B  
+Textbook: N/A  
+Review: He's actually a good professor overall. The exams are very fair and closely match the study guide no surprises. The only downside is that his lectures aren't very engaging, but if you study on your own, you'll do well.  
+Tags: EXTRA CREDIT, Group projects, Respected  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: N/A  
+Review: Engaging, humorous professor who teaches from slides with genuinely funny jokes. Assigns relevant homework, is approachable, clearly caring about student success. Group projects are challenging; early start with a good team is key. Tests are weighted heavily, but grading is fair with a curve. Highly recommend; positive impact on my FSU experience.  
+Tags: Group projects, Clear grading criteria, Caring  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: Not sure yet  
+Textbook: N/A  
+Review: He is a very good professor. The course is hard and I believe it is designed horribly. The class material does not correspond with the project work though the projects are doable. I feel like I would have learned more if this class covered less material but went more in depth with topics. Seemed like everything was skimmed over.  
+Tags: Lots of homework  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: N/A  
+Review: This course tends to have a bit of a scary connotation surrounding it, however with Dr. Wang I feel as though I have never learned so much in a course. He always manages to keep lectures entertaining, yet extremely insightful. He is quick to respond to emails and is always willing to help! Attend lectures and put in the work and you'll be fine.  
+Tags: Group projects, Amazing lectures, Caring  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B+  
+Textbook: N/A  
+Review: Hard class, Great professor. Obviously wants people to pass (class is always curved). Projects take a lot of time, dont take it with 2+ other hard classes. He is also pretty funny, attend every lecture and take notes/study and you will have a good time in this class. Again, this class is ROUGH, but you only really fail if you're in the bottom 10%.  
+Tags: Group projects, Caring  
+
+Course: COP4610  
+Quality: 4.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B  
+Textbook: N/A  
+Review: This class was very hard. But if you put the work in you should pass.  
+Tags: Test heavy  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: N/A  
+Review: Andy is someone that is very passionate about what he teaches and knows what he is talking about. My favorite part about him is that when he doesn't know the answer, he makes a point to learn and get back to students in the next class. The class overall is a little tough at times, but definitely doable! Great professor. PS- No textbook.  
+Tags: EXTRA CREDIT, Clear grading criteria, Gives good feedback  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A+  
+Textbook: N/A  
+Review: Although this class is more difficult if you do not find a good group that will split the work on the group projects for COP4610, the lectures Dr. Wang presents are clear and entertaining. Questions asked through emails are answered in a timely manner with helpful advice.  
+Tags: Group projects, Amazing lectures, Accessible outside class  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: Yes  
+Review: Find a group that's willing to dedicate time because the group projects were very time consuming, although not too difficult in execution. Dr. Wang is easy to reach if you have questions on the material or homework and replies to emails extremely quickly. He also definitely tries to make the lectures more engaging with some subtle humor.  
+Tags: Group projects, Lots of homework, Lecture heavy  
+
+Course: COP4610  
+Quality: 1.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B+  
+Textbook: N/A  
+Review: The class is setup so that studying the lectures for tests will comprise about 20% of your time, while working on the projects will comprise the rest. Andy Wang is a fantastic lecturer, but, aside from some hacky PowerPoints and a rude TA removed after a flurry of complaints, instruction for the extremely large and difficult projects is lacking.  
+Tags: Group projects, Amazing lectures, Lots of homework  
+
+Course: COP4610  
+Quality: 2.0  
+Difficulty: 4.0  
+Attendance: Mandatory  
+Would Take Again: Not specified  
+Grade: A  
+Textbook: Yes  
+Review: The class is really hard but not impossible. The key is to get a really good group and not be afraid to change groups if things don't work out with your first one. That being said, the class still sucked. Most of the comments are telling the truth about the lack of instruction received to do the projects which is really why the class is hard.  
+Tags: Group projects, Lecture heavy, Test heavy  
+
+Course: COP4610  
+Quality: 2.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: A+  
+Textbook: N/A  
+Review: Project criteria changed seemingly at random. The extra credit (implement project 2 in Rust) was almost impossible to do and there was legit no help from anyone (including Andy) to do the project in Rust. A friend did figure it out but they nearly went crazy to figure it out. The Rust EC was scrapped because it was too hard and poorly thought out.  
+Tags: Group projects, Lots of homework, Test heavy  
+
+Course: COP4610  
+Quality: 2.0  
+Difficulty: 5.0  
+Attendance: Mandatory  
+Would Take Again: Not specified  
+Grade: B+  
+Textbook: Yes  
+Review: ur kinda stuck with Andy whether u want to be or not cuz hes the only prof for this class. def agree w/all the comments about Andy lol, hes super chill and nice. i went to office hours to get help on a quiz and he told me what was wrong w my answer so i got a 100 on it. all imma say about the tas is that they werent helpful to my group at all lmfao  
+Tags: Tough grader, Group projects, Test heavy  
+
+Course: COP4610  
+Quality: 1.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: A+  
+Textbook: Yes  
+Review: One of the TAs got replaced because he was harassing the students so yeah. Dr. Wang is a really nice person but like he is so uninvolved in the class that the TAs can do whatever they want and they face no repercussions. I had a great group so it wasn't that bad but some of my friends have some horror stories.  
+Tags: Tough grader, EXTRA CREDIT, Test heavy  
+
+Course: COP4610  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B+  
+Textbook: Yes  
+Review: I took COP4610 and am taking COP5611. He cared about how we did in the class. He even curved the grades slightly at the end. The projects were hard. They were group projects. Having good groupmates is important. I don't know what all the talk about the TAs are about. It seems to me that people are mad about not doing well. Both TAs were good help.  
+Tags: Group projects, Lots of homework, Caring  
+
+Course: COP4610  
+Quality: 1.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: Not sure yet  
+Textbook: Yes  
+Review: The comments about the TAs are right, they suck in this class. Like one of the TAs literally changed an already hard project and made it even more difficult and then keeps changing the requirements for the project. I don't know if Andy actually vets these projects or not but he really should. He also just sits and reads off a powerpoint so like...  
+Tags: Tough grader, Group projects
+

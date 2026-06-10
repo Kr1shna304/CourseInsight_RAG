@@ -1,0 +1,187 @@
+Professor: Xian Mallory
+
+Overall Rating: 4.2/5
+Overall Difficulty: 2.9/5
+
+==================================================
+
+Course: CIS4930
+
+Review 1
+
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade Received: A
+Textbook: N/A
+
+Review:
+I had her for Bioinformatics Analysis. Very interesting class, and the material isn't too difficult to grasp despite being an intersection of two difficult subjects (CS and biology). Homework assignments are very manageable, and there are several hands-on sessions throughout the semester. Mallory herself is very kind and helpful.
+
+Tags:
+
+* Caring
+* Accessible Outside Class
+
+---
+
+Review 2
+
+Quality: 2.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: Not specified
+Grade Received: Not specified
+Textbook: N/A
+
+Review:
+Not a very flexible or accommodating professor. Class is just basically reading the lecture slides.
+
+Tags:
+
+* None
+
+---
+
+Review 3
+
+Quality: 5.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade Received: Not sure yet
+Textbook: Yes
+
+Review:
+She provides a lot of materials related to the course and if you miss a lecture or want to go over it again, she uploads her previous class lectures to the course website. She is very knowledgeable about the material and gives good lectures about complex topics.
+
+Tags:
+
+* Amazing Lectures
+* Respected
+* Online Savvy
+
+---
+
+
+==================================================
+
+Course: COP4530
+
+Review 1
+
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade Received: C
+Textbook: N/A
+
+Review:
+she was very helpful when I thought I was going to fail, a real sweetheart.
+
+Tags:
+
+* None
+
+---
+
+Review 2
+
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Not specified
+Would Take Again: Yes
+Grade Received: A-
+Textbook: Not specified
+
+Review:
+Honestly shes probably the best prof to teach data structures at FSU. Explains the concepts pretty well and is nice if you ask questions, never had a problem with her. Theres 4 main assignments and a quiz each week which is nice because I think it helped me familiarize myself with the concepts better. Very solid and useful.
+
+Tags:
+
+* Respected
+
+---
+
+Review 3
+
+Quality: 2.0
+Difficulty: 3.0
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade Received: Not sure yet
+Textbook: N/A
+
+Review:
+ok teacher but not a nice person
+
+Tags:
+
+* None
+
+---
+
+Review 4
+
+Quality: 4.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade Received: A
+Textbook: Yes
+
+Review:
+She's kind and helpful. Some lectures felt a bit rushed at times but I never felt like I was too far behind, mainly thanks to the weekly quizzes (which can be stressful but overall not terrible as long as you take good notes and pay attention in class). HW assignments graded very harshly so make sure your code is thoroughly tested before you submit.
+
+Tags:
+
+* Caring
+* Lecture Heavy
+
+---
+
+Review 5
+
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade Received: A-
+Textbook: N/A
+
+Review:
+Mallory cares about student success and ensures there are plenty examples in the lectures. There are quizzes almost every week in class and an assignment for the major topics. The final is comprehensive and difficult due to the length. There is extra credit on some assignments and she curves the final if needed. Definitely would take with her.
+
+Tags:
+
+* Extra Credit
+* Clear Grading Criteria
+* Lecture Heavy
+
+---
+
+
+==================================================
+
+Course: COT5405
+
+Review 1
+
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade Received: A
+Textbook: N/A
+
+Review:
+One of the best professors in the CS department at FSU. She is super caring, and you won't regret selecting her class.
+
+Tags:
+
+* Extra Credit
+* Amazing Lectures
+
+---

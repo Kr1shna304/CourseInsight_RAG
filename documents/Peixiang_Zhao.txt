@@ -1,0 +1,165 @@
+Professor name: Peixiang Zhao
+Rating: 2.8/5
+level of difficulty: 3.5
+
+Course: COP3014
+Quality: 1.0
+Difficulty: 2.0
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: C+
+Textbook: N/A
+Review: Zhao took over my course mid way through due to my original teacher needing surgery. Gave practically 0 information about the final just for it to be 10x harder then the midterm with our original teacher. Totally different format. Average was a 50 and they curved it slightly, but claimed to have curved it nearly 10 points higher then he did. awful
+Tags: Tough grader, Graded by few things
+
+Course: COP3330  
+Quality: 3.0  
+Difficulty: 5.0  
+Attendance: Mandatory  
+Would Take Again: No  
+Grade: A  
+Textbook: No  
+Review: Test questions have double meaning and are often confusing. Homeworks aren't the worst thing but aren't easy either (start early!). Very nice guy who is willing to help you understand and responds super quickly to emails. Kind of a thick accent but still understandable. If you get a good TA this class is a cinch. Also has a lot of extra credit (10%).  
+Tags: Test heavy, Beware of pop quizzes, Tough grader  
+
+Course: COP3330  
+Quality: 4.0  
+Difficulty: 3.0  
+Attendance: Mandatory  
+Would Take Again: Yes  
+Grade: Not sure yet  
+Textbook: No  
+Review: I was nervous about taking this class with him but it wasn't too bad. The lectures are very boring and there's pop quizzes. Most of the assignments weren't too hard if you start them early. Professor Zhao is a nice guy and he's very responsive if you email him. It's definitely possible to get an A or B in the class if you put the work in.  
+Tags: Lots of homework, Beware of pop quizzes, EXTRA CREDIT  
+
+Course: COP3330  
+Quality: 3.0  
+Difficulty: 4.0  
+Attendance: Mandatory  
+Would Take Again: No  
+Grade: C-  
+Textbook: No  
+Review: Genuine guy who just wants to see his students pass the class. However, you can't get anything of substance from his lectures. In order to pass, you have to read the textbook (don't get it) or use Bob Myers notes to understand the topics. BEWARE OF ATTENDANCE QUIZZES!!!  
+Tags: Gives good feedback, Accessible outside class, Beware of pop quizzes  
+
+Course: COP3330  
+Quality: 3.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B  
+Textbook: No  
+Review: Overall, he is a nice guy that wants you to pass his class. He gives less assignments overall than Bob Myers does, but his lectures are boring and you don't get a whole lot out of it. You will have to go to office hours to pass unless you are a professional c++ programmer. He is easy to contact but don't expect an easy "A", you gotta put work in.  
+Tags: Gives good feedback, Accessible outside class  
+
+Course: COP3330  
+Quality: 1.0  
+Difficulty: 5.0  
+Attendance: Mandatory  
+Would Take Again: No  
+Grade: Not specified  
+Textbook: No  
+Review: Unless you're really, really proficient in C++ going into this class, don't take it. Otherwise, good luck (you'll need it). Lectures were boring, homework was difficult, tests were long and very hard. Also, unlike the other professors for this class, a day late is 50% off homework. Although, he was good at answering email questions decently fast.  
+Tags: Lots of homework, Accessible outside class, Tough grader  
+
+Course: COP3330  
+Quality: 1.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: No  
+Grade: Not specified  
+Textbook: No  
+Review: Honestly, I have legitimately cried every time I sit down to work on his ridiculously long homework which you ALWAYS have assigned at all times. Our exams are lengthy and he even assigned homework due the Sunday after the exam on a Thursday. His lectures are completely unhelpful and entirely boring. Even the recitation is a total waste of time.  
+Tags: Lots of homework, Tough grader
+
+Course: COP4710  
+Quality: 2.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: A  
+Textbook: Yes  
+Review: Decent professor but I dislike the way the course is structured. Teaches basic SQL queries but never dives into how to actually combine this w/ programming knowledge to design anything practical, unless you count the handful of links posted to the course website. This means the final project is very difficult unless your group has prior knowledge.  
+Tags: Group projects  
+
+Course: COP4710  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A-  
+Textbook: N/A  
+Review: Very knowledgeable and happy to help with questions. Make sure to show up to class and apply yourself and you will learn a lot and have a good time.  
+Tags: Participation matters, Group projects, Gives good feedback  
+
+Course: COP4710  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: Yes  
+Review: Would 100% recommended taking Dr. Zhao over the other professors for COP4710. He cares about his students and the class is extremely manageable. Show up to class and ask questions; you will learn a lot and end up with a great grade. Pick a good group for the group project because it is a huge amount of your grade.  
+Tags: Group projects, Caring, Accessible outside class  
+
+Course: COP4710  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B+  
+Textbook: N/A  
+Review: Zhao gives good lectures and gives good examples for the topics. The assignments are exactly like the lecture material. The group project is fun but a lot of work. Important to get a good group together if you want to make it easier. The midterm and final are difficult but if you attend lecture and try to learn the material you'll be fine.  
+Tags: Group projects, Lecture heavy, Accessible outside class  
+
+Course: COP4710  
+Quality: 1.0  
+Difficulty: 2.0  
+Attendance: Not Mandatory  
+Would Take Again: No  
+Grade: A  
+Textbook: No  
+Review: worst ever  
+Tags: Lecture heavy  
+
+Course: COP4710  
+Quality: 1.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: No  
+Grade: Not specified  
+Textbook: No  
+Review: 6 page long midterm. 15 page long final. His lecture notes are horrible. You won't learn anything by going to class. He replies to emails fast but his assignments and tests are unusually difficult. He does curve a little bit though.  
+Tags: LOTS OF HOMEWORK, GROUP PROJECTS, Tests are tough  
+
+Course: COP4710  
+Quality: 3.5  
+Difficulty: 2.0  
+Attendance: Not specified  
+Would Take Again: Not specified  
+Grade: Not specified  
+Textbook: Yes  
+Review: Seems like he really cares about his students. While there might be some disconnect due to his accent, he does a very good job explaining the material.  
+Tags: None  
+
+Course: COP4710  
+Quality: 3.5  
+Difficulty: 3.0  
+Attendance: Mandatory  
+Would Take Again: Not specified  
+Grade: C  
+Textbook: Yes  
+Review: Knowledgeable, competent, helpful, good at explaining, understandable with Chinese accent. Zhao really helped me get past COP4710, a class I'd taken before and needed to pass to graduate. Go to class, talk to him during office hours, and read the book. You have to be disciplined outside of class to do well in COP4710.  
+Tags: None
+
+Course: COP5725
+Quality: 2.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not specified
+Textbook: Yes
+Review: He do reply to you and hes nice person, but not a good instructor. He will make sure that his assignments and exams are hard. He reads from the slides. The content of the class is interesting but he like to make his exams hard for no reason.
+Tags: None
+
+

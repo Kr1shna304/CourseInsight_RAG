@@ -1,0 +1,205 @@
+Professor: Grigory Fedyukovich
+
+Overall Rating: 1.9/5
+Overall Difficulty: 4.1/5
+
+==================================================
+
+Course: COP5621
+
+Review 1
+
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade Received: A+
+Textbook: Yes
+
+Review:
+He's a great instructor for technical topics. Sure, CEN4020 won't be the most entertaining class in the world. Take him for anything related to compilers if you like to deep dive. His expertise in the subject is evident from day one. Pragmatic and effective lectures, generally just an extremely chill guy, apply yourself and you'll be OK.
+
+Tags:
+
+* Participation Matters
+* Extra Credit
+* Amazing Lectures
+
+---
+
+Review 2
+
+Quality: 5.0
+Difficulty: 5.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade Received: A
+Textbook: Yes
+
+Review:
+best professor at FSU. he is not even in the country and still did a fantastic job this past semester. if you failed his class then you are incompetent and a horrible student
+
+Tags:
+
+* None
+
+---
+
+Review 3
+
+Quality: 2.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade Received: A
+Textbook: N/A
+
+Review:
+Honestly the fact that his 4020 class is not an online class is crazy to me (he zooms in and we have to attend in person). To be clear, this is not his fault, we can blame the FSU Crputer Science department for this one. All-around a pretty lukewarm professor.
+
+Tags:
+
+* Extra Credit
+* Beware Of Pop Quizzes
+
+---
+
+Review 4
+
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade Received: B-
+Textbook: N/A
+
+Review:
+had him for cen 4020 and he is the worst professor ive ever had. he isnt even in the country and teaches on zoom but you need to be in the classroom to watch it. not helpful in any way
+
+Tags:
+
+* Beware Of Pop Quizzes
+* Graded By Few Things
+
+---
+
+Review 5
+
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade Received: Drop/Withdrawal
+Textbook: N/A
+
+Review:
+Be sure to avoid this professor, the worst professor.
+
+Tags:
+
+* Lots Of Homework
+* Test Heavy
+
+---
+
+Review 6
+
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade Received: Not sure yet
+Textbook: N/A
+
+Review:
+Took CEN4020 with him. Useless homework, don't understand why he gave such assignments which no helps for future works at all but time-consuming. Boring class, not helpful for cs students. Given quizzes unexpectedly, reminding students and informing them before quizzes is the teacher's job.
+
+Tags:
+
+* None
+
+---
+
+Review 7
+
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Not Mandatory
+Would Take Again: No
+Grade Received: C+
+Textbook: No
+
+Review:
+The worst instructor I've ever had. He expects a lot from the students and every assignment is dependent on the previous one, on top of that he doesn't even explain the answers of the assignments. Doesn't give marks for putting efforts, By the end of the semester, I felt he deliberately failed me in the exam.
+
+Tags:
+
+* Lots Of Homework
+* Test Heavy
+* Tough Grader
+
+---
+
+Review 8
+
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Mandatory
+Would Take Again: No
+Grade Received: Not specified
+Textbook: No
+
+Review:
+He's quite rigid. The assignments were hard and part of it was because we didn't have access to the lab solutions that were past their due date. Since the labs build over the other. The demo isn't that helpful if your code is different. He expects a lot from you and that puts a lot of pressure. The deadlines are rigid. Learned a lot tho.
+
+Tags:
+
+* Skip Class? You Won'T Pass.
+* Test Heavy
+* Tough Grader
+
+---
+
+
+==================================================
+
+Course: CEN4020
+
+Review 1
+
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: Not specified
+Grade Received: A
+Textbook: Yes
+
+Review:
+The class is mandatory taught in-person but the professor only appears via zoom on the projector in the class. Very boring, mundane, uninteresting lectures. The content of the course itself is easy but the professor turns it into a nightmare. The exams are riddled with trick questions.
+
+Tags:
+
+* Tough Grader
+* Lecture Heavy
+
+---
+
+Review 2
+
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: Not specified
+Grade Received: B
+Textbook: N/A
+
+Review:
+Not a extremely hard class, but overall quite a boring class. I didn't really learn much since it was all on zoom. Be aware of pop quizzes. Quizzes are not worth much. Oral presentation is online and only 5 percent if you're not a great speaker don't worry. Essays easy. Exams are dumb. It's a easy class mad hard by the professor. Don't take.
+
+Tags:
+
+* Tough Grader
+* Extra Credit
+* Test Heavy
+
+---

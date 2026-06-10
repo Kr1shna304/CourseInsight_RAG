@@ -1,0 +1,113 @@
+Professor name: Xin Yuan
+Rating: 4.1/5
+level of difficulty: 3.6
+
+Course: COP3330  
+Quality: 3.0  
+Difficulty: 2.0  
+Attendance: Not specified  
+Would Take Again: Not specified  
+Grade: Not specified  
+Textbook: No  
+Review: OO programming is pretty basic-easy course, class doesn't really matter much, do the work on your own and figure it out yourself. When you get stuck, he's great at helping you through your problems if you try to bs him, he will know and laugh. Put in the hours, he'll give you the grade you deserve.  
+Tags: None  
+
+Course: COP4521  
+Quality: 5.0  
+Difficulty: 4.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: N/A  
+Review: Great lecturer, super nice guy. This class is very easy except for one incredibly hard parallel programming assignment that can tank your grade. Other than that just pay attention and do your homework. The tests are almost an exact copy of the homework. Lots of extra credit. He has an accent but it was never too big of an issue for me.  
+Tags: None  
+
+Course: COP4521  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: B  
+Textbook: N/A  
+Review: Solid professor. Copious extra credit, both handed out by attending coding comps and finding errors in his own code; even spelling errors in HW descriptions counted as extra credit, if you were first to find them. Not the easiest class, but not the hardest either.  
+Tags: None  
+
+Course: COP4521  
+Quality: 5.0  
+Difficulty: 3.0  
+Attendance: Not specified  
+Would Take Again: Yes  
+Grade: Not sure yet  
+Textbook: N/A  
+Review: Bro is the goat, not much else to say.  
+Tags: EXTRA CREDIT, Amazing lectures, Lots of homework  
+
+Course: COP4530  
+Quality: 5.0  
+Difficulty: 2.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: N/A  
+Review: He's the best. Had him for cop4530 and cop4521 and he's easily my favorite computer science professor at florida state. His lectures are interesting if you actually pay attention and participate and he's super friendly. He also responds to emails quickly and gives extra credit in assignments.  
+Tags: EXTRA CREDIT, Caring, Accessible outside class  
+
+Course: COP4530  
+Quality: 5.0  
+Difficulty: 2.0  
+Attendance: Not Mandatory  
+Would Take Again: Yes  
+Grade: A  
+Textbook: Yes  
+Review: Easygoing guy who tries to help during office hours or through email. Lots of extra credit, I finished with above a 100 in the class. This class, for me, was easier than 3330 with Myers, so as long as you are comfortable programming in C++, the class is a breeze to pass, just make sure you reserve plenty of time to actually do the projects.  
+Tags: EXTRA CREDIT, Caring  
+
+Course: COP4530  
+Quality: 3.5  
+Difficulty: 4.0  
+Attendance: Not specified  
+Would Take Again: Not specified  
+Grade: Not specified  
+Textbook: No  
+Review: Hope you like paaaaain! Very knowledgeable professor, very good at what he does and you will be too or fail badly. Look into his eyes and beg for mercy, then listen to him say, you will all fail, followed by his unique, maniacal laugh.  
+Tags: None  
+
+Course: COP4610  
+Quality: 3.5  
+Difficulty: 5.0  
+Attendance: Not specified  
+Would Take Again: Not specified  
+Grade: Not specified  
+Textbook: No  
+Review: You learn a lot in his classes. That comes at a price, his tests are very difficult, and so are his projects (I've taken him for 3 classes). He does restructure the scale at the end, which I guess is curving. While his classes are extremely difficult, if you put a lot of work in, and he sees that, he will pass you.  
+Tags: None  
+
+Course: COP5570  
+Quality: 3.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: A  
+Textbook: N/A  
+Review: The class while take up 90% of your time. Now AI can probably solve most of the assignments, but back when I took it, AI wasn't as helpful. Ended up learning a lot but at the cost of a lot of effort and investing time.  
+Tags: EXTRA CREDIT, Group projects, Lots of homework  
+
+Course: COP5570  
+Quality: 2.0  
+Difficulty: 5.0  
+Attendance: Not Mandatory  
+Would Take Again: Not specified  
+Grade: B  
+Textbook: Yes  
+Review: This class is insane hard if you are not expert in C.  
+Tags: Tough grader, Lots of homework, Test heavy  
+
+Course: COP5570  
+Quality: 5.0  
+Difficulty: 5.0  
+Attendance: Not specified  
+Would Take Again: Not specified  
+Grade: Not specified  
+Textbook: No  
+Review: The man is brilliant and has a gift for conveying information rarely seen in CS faculty. Take his class; just be prepared to work really, really hard.  
+Tags: None
