@@ -418,6 +418,9 @@ def retrieve(query):
 
     course = extract_course(query)
 
+    valid_professors = get_professor_names()
+    valid_courses = get_all_courses()
+
     print(f"\nQuery Type: {query_type}")
 
     # -------------------
@@ -425,6 +428,9 @@ def retrieve(query):
     # -------------------
 
     if query_type == "list_professors":
+        if not get_professor_names():
+            return ""
+
 
         return {
             "type": "professor_list",
@@ -436,6 +442,8 @@ def retrieve(query):
     # -------------------
 
     if query_type == "list_courses":
+        if not get_course_names():
+            return ""
 
         return {
             "type": "course_list",
@@ -447,9 +455,16 @@ def retrieve(query):
     # -------------------
 
     if query_type == "professor_course":
+        if not professors or not course:
+            return ""
+
+        professor = professors[0]
+
+        if professor not in get_professor_names() or course not in get_all_courses():
+            return ""
 
         return get_professor_course(
-            professors[0],
+            professor,
             course
         ), "professor_course"
 
@@ -458,6 +473,8 @@ def retrieve(query):
     # -------------------
 
     if query_type == "course":
+        if not course or course not in valid_courses:
+            return ""
 
         return get_course_chunks(course), "course"
 
@@ -466,6 +483,8 @@ def retrieve(query):
     # -------------------
 
     if query_type == "professor":
+        if not professors or professors[0] not in valid_professors:
+            return ""
 
         return get_professor_summary(
             professors[0]
@@ -473,6 +492,33 @@ def retrieve(query):
 
     # -------------------
     # Comparison
+    # -------------------
+
+    if query_type == "comparison":
+        if not professors:
+            return ""
+
+        chunks = []
+
+        if course and course in valid_courses:
+            for professor in professors:
+                if professor in valid_professors:
+                    chunks.extend(
+                        get_professor_course(
+                            professor,
+                            course
+                        )
+                    )
+        else:
+            for professor in professors:
+                if professor in valid_professors:
+                    chunks.extend(
+                        get_professor_summary(
+                            professor
+                        )
+                    )
+
+        return chunks, "comparison"
     # -------------------
 
     if query_type == "comparison":

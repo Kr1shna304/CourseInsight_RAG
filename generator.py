@@ -1,13 +1,11 @@
 from groq import Groq
-from sympy import re
-from torch import chunk
 from config import GROQ_API_KEY, LLM_MODEL
 
 _client = Groq(api_key=GROQ_API_KEY)
 
 
 def generate_response(query, retrieved_chunks, chunk_type):
-    if not retrieved_chunks:
+    if not retrieved_chunks or not chunk_type:
         return (
             "I couldn't find anything relevant in the loaded rule books. "
             "Try rephrasing your question — or check that your ingestion pipeline is working."

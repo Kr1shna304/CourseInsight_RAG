@@ -39,7 +39,14 @@ def run_ingestion():
 def chat(message, history):
     if not message.strip():
         return ""
-    retrieved, query_type = retrieve(message)
+    result = retrieve(message)
+
+    if isinstance(result, tuple) and len(result) == 2:
+        retrieved, query_type = result
+    else:
+        # retrieve() may return an empty string or None when nothing valid
+        retrieved, query_type = None, None
+
     return generate_response(message, retrieved, query_type)
 
 
