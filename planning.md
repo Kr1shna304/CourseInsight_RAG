@@ -165,10 +165,6 @@ Questions such as "Who is the best professor?" or "Who is the easiest professor 
 
 **Mitigation:** Dedicated query classification and re-ranking logic are used to identify ranking and comparison questions, allowing the system to retrieve a broader set of relevant professor summaries before generating a response.
 
-1.
-
-2.
-
 ---
 
 ## Architecture
