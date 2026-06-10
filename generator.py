@@ -11,7 +11,6 @@ def generate_response(query, retrieved_chunks, chunk_type):
             "Try rephrasing your question — or check that your ingestion pipeline is working."
         )
     context_parts = []
-
     if chunk_type == "list_professors":
          context = retrieved_chunks['professors']
     elif chunk_type == "list_courses":

@@ -1,3 +1,7 @@
+## Chatbot interface
+
+![chatbot interface](courseInsight.png)
+
 ## Domain
 
 The Unofficial Guide covers student reviews and experiences of Florida State University (FSU) Computer Science professors and courses. This knowledge is valuable because official course catalogs and university websites provide course descriptions and instructor assignments but do not capture teaching quality, workload, grading style, attendance expectations, exam difficulty, or overall student sentiment. Student reviews provide insights that are difficult to obtain through official channels and are often important factors when students choose courses and professors.
